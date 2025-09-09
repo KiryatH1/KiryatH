@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/KiryatH/static/css/main.9d983feb.css",
-    "main.js": "/KiryatH/static/js/main.a54219a4.js",
+    "main.css": "/KiryatH/static/css/main.4af49a13.css",
+    "main.js": "/KiryatH/static/js/main.d25912c8.js",
     "static/js/453.2c9987c1.chunk.js": "/KiryatH/static/js/453.2c9987c1.chunk.js",
     "static/media/ser.mp4": "/KiryatH/static/media/ser.07a1d6605ef64283b91d.mp4",
-    "static/media/logo.png": "/KiryatH/static/media/logo.ba22f623ea439fe4fdea.png",
+    "static/media/logo.PNG": "/KiryatH/static/media/logo.c893c9507d39eaf2e367.PNG",
     "static/media/instagram.png": "/KiryatH/static/media/instagram.85e8da6a0578f6470929.png",
     "static/media/php.jpg": "/KiryatH/static/media/php.16dfa78e7460bc0ad236.jpg",
     "static/media/tiktok.png": "/KiryatH/static/media/tiktok.4531a9bd379187cf0099.png",
     "static/media/whatsapp.png": "/KiryatH/static/media/whatsapp.1f80f06fe706ad8277dc.png",
     "index.html": "/KiryatH/index.html",
-    "main.9d983feb.css.map": "/KiryatH/static/css/main.9d983feb.css.map",
-    "main.a54219a4.js.map": "/KiryatH/static/js/main.a54219a4.js.map",
+    "main.4af49a13.css.map": "/KiryatH/static/css/main.4af49a13.css.map",
+    "main.d25912c8.js.map": "/KiryatH/static/js/main.d25912c8.js.map",
     "453.2c9987c1.chunk.js.map": "/KiryatH/static/js/453.2c9987c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d983feb.css",
-    "static/js/main.a54219a4.js"
+    "static/css/main.4af49a13.css",
+    "static/js/main.d25912c8.js"
   ]
 }
