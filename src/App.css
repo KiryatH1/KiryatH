@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom right, #dff1ff, #b6e0fe);
+  direction: rtl;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.login-form {
+  background-image: url('photos/logo.png');
+  background-size: contain; /* ✅ כל התמונה תיכנס בדיוק */
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* ✅ כדי לשים שדות באמצע וכפתור למטה */
+  align-items: center;
+  padding: 60px 40px;
+  border-radius: 32px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  max-width: 600px;    /* ✅ רוחב רחב יותר */
+  height: 500px;       /* ✅ גובה גבוה יותר */
+  color: white;
+  backdrop-filter: blur(4px);
+  background-blend-mode: multiply;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.login-form h2 {
+  margin-bottom: 20px;
+}
+
+.login-form form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  justify-content: center; /* ✅ ממקם את השדות באמצע */
+}
+
+.login-form input {
+  width: 100%;
+  max-width: 350px;
+  padding: 14px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 12px;
+  text-align: right;
+  font-size: 16px;
+  background-color: rgba(255, 255, 255, 0.85);
+  color: #000;
+}
+
+.login-form button {
+  margin-top: 30px;
+  width: 100%;
+  max-width: 350px;
+  padding: 14px;
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.login-form button:hover {
+  background-color: #1976d2;
+}
+
+.home-container {
+  text-align: center;
+  margin-top: 100px;
+  color: #0c3d6b;
+}
+
+/* רספונסיביות */
+@media (max-width: 480px) {
+  .login-form {
+    height: auto;
+    padding: 30px 20px;
+  }
+
+  .login-form input,
+  .login-form button {
+    font-size: 15px;
+    padding: 12px;
+  }
+}
