@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/KiryatH/static/css/main.892dde2e.css",
-    "main.js": "/KiryatH/static/js/main.7b4e5ee7.js",
+    "main.css": "/KiryatH/static/css/main.c08b1885.css",
+    "main.js": "/KiryatH/static/js/main.862189b0.js",
     "static/js/453.2c9987c1.chunk.js": "/KiryatH/static/js/453.2c9987c1.chunk.js",
     "static/media/kt3.JPEG": "/KiryatH/static/media/kt3.8c6fae705c4dd6828908.JPEG",
     "static/media/k4.JPEG": "/KiryatH/static/media/k4.05e3fec6e461df9ac28b.JPEG",
@@ -12,12 +12,12 @@
     "static/media/whatsapp.png": "/KiryatH/static/media/whatsapp.1f80f06fe706ad8277dc.png",
     "static/media/tiktok1.jpeg": "/KiryatH/static/media/tiktok1.28447ae9c9fabae15fe7.jpeg",
     "index.html": "/KiryatH/index.html",
-    "main.892dde2e.css.map": "/KiryatH/static/css/main.892dde2e.css.map",
-    "main.7b4e5ee7.js.map": "/KiryatH/static/js/main.7b4e5ee7.js.map",
+    "main.c08b1885.css.map": "/KiryatH/static/css/main.c08b1885.css.map",
+    "main.862189b0.js.map": "/KiryatH/static/js/main.862189b0.js.map",
     "453.2c9987c1.chunk.js.map": "/KiryatH/static/js/453.2c9987c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.892dde2e.css",
-    "static/js/main.7b4e5ee7.js"
+    "static/css/main.c08b1885.css",
+    "static/js/main.862189b0.js"
   ]
 }
