@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/KiryatH/static/css/main.1a417881.css",
+    "main.css": "/KiryatH/static/css/main.56664b9f.css",
     "main.js": "/KiryatH/static/js/main.130eac1e.js",
     "static/js/453.2c9987c1.chunk.js": "/KiryatH/static/js/453.2c9987c1.chunk.js",
     "static/media/kt3.JPEG": "/KiryatH/static/media/kt3.8c6fae705c4dd6828908.JPEG",
@@ -12,12 +12,12 @@
     "static/media/whatsapp.png": "/KiryatH/static/media/whatsapp.1f80f06fe706ad8277dc.png",
     "static/media/tiktok1.jpeg": "/KiryatH/static/media/tiktok1.28447ae9c9fabae15fe7.jpeg",
     "index.html": "/KiryatH/index.html",
-    "main.1a417881.css.map": "/KiryatH/static/css/main.1a417881.css.map",
+    "main.56664b9f.css.map": "/KiryatH/static/css/main.56664b9f.css.map",
     "main.130eac1e.js.map": "/KiryatH/static/js/main.130eac1e.js.map",
     "453.2c9987c1.chunk.js.map": "/KiryatH/static/js/453.2c9987c1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a417881.css",
+    "static/css/main.56664b9f.css",
     "static/js/main.130eac1e.js"
   ]
 }
