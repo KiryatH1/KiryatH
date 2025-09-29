@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/KiryatH/static/css/main.8072a8a9.css",
-    "main.js": "/KiryatH/static/js/main.ab79d156.js",
+    "main.css": "/KiryatH/static/css/main.f4dbd50e.css",
+    "main.js": "/KiryatH/static/js/main.f0cd6b18.js",
     "static/media/kt3.JPEG": "/KiryatH/static/media/kt3.8c6fae705c4dd6828908.JPEG",
     "static/media/k4.JPEG": "/KiryatH/static/media/k4.05e3fec6e461df9ac28b.JPEG",
     "static/media/ser.mp4": "/KiryatH/static/media/ser.07a1d6605ef64283b91d.mp4",
     "static/media/logo.png": "/KiryatH/static/media/logo.c893c9507d39eaf2e367.png",
     "static/media/php.jpg": "/KiryatH/static/media/php.16dfa78e7460bc0ad236.jpg",
     "index.html": "/KiryatH/index.html",
-    "main.8072a8a9.css.map": "/KiryatH/static/css/main.8072a8a9.css.map",
-    "main.ab79d156.js.map": "/KiryatH/static/js/main.ab79d156.js.map"
+    "main.f4dbd50e.css.map": "/KiryatH/static/css/main.f4dbd50e.css.map",
+    "main.f0cd6b18.js.map": "/KiryatH/static/js/main.f0cd6b18.js.map"
   },
   "entrypoints": [
-    "static/css/main.8072a8a9.css",
-    "static/js/main.ab79d156.js"
+    "static/css/main.f4dbd50e.css",
+    "static/js/main.f0cd6b18.js"
   ]
 }
