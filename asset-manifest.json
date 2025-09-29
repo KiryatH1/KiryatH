@@ -1,24 +1,18 @@
 {
   "files": {
-    "main.css": "/KiryatH/static/css/main.07d94b93.css",
-    "main.js": "/KiryatH/static/js/main.cc947be1.js",
-    "static/js/453.2c9987c1.chunk.js": "/KiryatH/static/js/453.2c9987c1.chunk.js",
+    "main.css": "/KiryatH/static/css/main.e05dd727.css",
+    "main.js": "/KiryatH/static/js/main.3753a528.js",
     "static/media/kt3.JPEG": "/KiryatH/static/media/kt3.8c6fae705c4dd6828908.JPEG",
     "static/media/k4.JPEG": "/KiryatH/static/media/k4.05e3fec6e461df9ac28b.JPEG",
     "static/media/ser.mp4": "/KiryatH/static/media/ser.07a1d6605ef64283b91d.mp4",
-    "static/media/logo.PNG": "/KiryatH/static/media/logo.c893c9507d39eaf2e367.PNG",
-    "static/media/instagram.png": "/KiryatH/static/media/instagram.85e8da6a0578f6470929.png",
-    "static/media/map.jpg": "/KiryatH/static/media/map.6d60a35009c87ddf1a2f.jpg",
+    "static/media/logo.png": "/KiryatH/static/media/logo.c893c9507d39eaf2e367.png",
     "static/media/php.jpg": "/KiryatH/static/media/php.16dfa78e7460bc0ad236.jpg",
-    "static/media/whatsapp.png": "/KiryatH/static/media/whatsapp.1f80f06fe706ad8277dc.png",
-    "static/media/tiktok1.jpeg": "/KiryatH/static/media/tiktok1.28447ae9c9fabae15fe7.jpeg",
     "index.html": "/KiryatH/index.html",
-    "main.07d94b93.css.map": "/KiryatH/static/css/main.07d94b93.css.map",
-    "main.cc947be1.js.map": "/KiryatH/static/js/main.cc947be1.js.map",
-    "453.2c9987c1.chunk.js.map": "/KiryatH/static/js/453.2c9987c1.chunk.js.map"
+    "main.e05dd727.css.map": "/KiryatH/static/css/main.e05dd727.css.map",
+    "main.3753a528.js.map": "/KiryatH/static/js/main.3753a528.js.map"
   },
   "entrypoints": [
-    "static/css/main.07d94b93.css",
-    "static/js/main.cc947be1.js"
+    "static/css/main.e05dd727.css",
+    "static/js/main.3753a528.js"
   ]
 }
