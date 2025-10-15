@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KiryatH/static/css/main.c1cb02b6.css",
-    "main.js": "/KiryatH/static/js/main.da5e98f3.js",
+    "main.js": "/KiryatH/static/js/main.029387c2.js",
     "static/media/b10.png": "/KiryatH/static/media/b10.fb24fc0ce2d1148205f5.png",
     "static/media/kt3.JPEG": "/KiryatH/static/media/kt3.8c6fae705c4dd6828908.JPEG",
     "static/media/b13.png": "/KiryatH/static/media/b13.7d906fce20b6131feab6.png",
@@ -12,18 +12,27 @@
     "static/media/b11.png": "/KiryatH/static/media/b11.c5b444eb88115e49ddf3.png",
     "static/media/b7.png": "/KiryatH/static/media/b7.3e4b92e60b2e738b6318.png",
     "static/media/logo.png": "/KiryatH/static/media/logo.c893c9507d39eaf2e367.png",
+    "static/media/mall.png": "/KiryatH/static/media/mall.90bfa0f394fefeb65a78.png",
+    "static/media/bus.png": "/KiryatH/static/media/bus.36e58ae1823b13447130.png",
+    "static/media/menu.png": "/KiryatH/static/media/menu.ddd8356282cc7c2fe58c.png",
+    "static/media/ser.png": "/KiryatH/static/media/ser.3855dfdd439090fc0287.png",
+    "static/media/sos.png": "/KiryatH/static/media/sos.aeb59f786ba131fac391.png",
+    "static/media/save.png": "/KiryatH/static/media/save.9c91fb3bd63a6ec5c3a8.png",
+    "static/media/bild.png": "/KiryatH/static/media/bild.b850220d8b4a1a9df26d.png",
     "static/media/b6.png": "/KiryatH/static/media/b6.1c42da939b25f06a8752.png",
+    "static/media/tiksh.png": "/KiryatH/static/media/tiksh.24e1c7ab3e003beb1a6d.png",
+    "static/media/fun.png": "/KiryatH/static/media/fun.9f4fe0900ec1bfc4a725.png",
+    "static/media/rabanot.png": "/KiryatH/static/media/rabanot.c53fa60e32a49cf76339.png",
+    "static/media/equ.png": "/KiryatH/static/media/equ.2d4928d6bc88df3b3dd6.png",
+    "static/media/madi.png": "/KiryatH/static/media/madi.dce7a619c1767d2a9343.png",
     "static/media/map.jpg": "/KiryatH/static/media/map.6d60a35009c87ddf1a2f.jpg",
     "static/media/php.jpg": "/KiryatH/static/media/php.16dfa78e7460bc0ad236.jpg",
-    "static/media/mall.jpg": "/KiryatH/static/media/mall.748751f868c305652bf3.jpg",
-    "static/media/bus.jpg": "/KiryatH/static/media/bus.3b8863fce14db60fcff6.jpg",
-    "static/media/menu.jpg": "/KiryatH/static/media/menu.2e7c7aadd9a6813f4139.jpg",
     "index.html": "/KiryatH/index.html",
     "main.c1cb02b6.css.map": "/KiryatH/static/css/main.c1cb02b6.css.map",
-    "main.da5e98f3.js.map": "/KiryatH/static/js/main.da5e98f3.js.map"
+    "main.029387c2.js.map": "/KiryatH/static/js/main.029387c2.js.map"
   },
   "entrypoints": [
     "static/css/main.c1cb02b6.css",
-    "static/js/main.da5e98f3.js"
+    "static/js/main.029387c2.js"
   ]
 }
